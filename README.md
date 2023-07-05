@@ -1,3 +1,3 @@
 # Projeto WebDev
-Projeto WebDev, CoserHouse-Brasil.
+Projeto WebDev, CoderHouse-Brasil.
 Tema - Magic:The Gathering 
