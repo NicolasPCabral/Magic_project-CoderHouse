@@ -1,3 +1,3 @@
 # Projeto - "Magic: The Gathering"
-![image](https://github.com/NicolasPCabral/Magic_project-CoderHouse/assets/134237371/d9ce5366-b116-4ec9-b1f8-da0921de2601)
+![image](https://github.com/NicolasPCabral/Magic_project-CoderHouse/assets/134237371/d0cc75b2-127b-403f-9547-4b0ecf9854d8)
 Participantes: Nícolas Cabral, Bruno Dias, Armando Souza Neto, Fábio Gabrielli, Vitor Peccinin.
